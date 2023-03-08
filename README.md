@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sk Muhammad Asif</h1>
+[![MasterHead](https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/grandchallengetrajectories_1.gif)]
+
+<h1 align="center">Howdy 👋, I'm Sk Muhammad Asif</h1>
 <h3 align="center">Consider myself a geospatial wizard!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhasif1996" alt="sheikhasif1996" /></a> </p>
 
 - 🌱 I’m currently learning **computer vision, digital image processing**
 
