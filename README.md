@@ -1,14 +1,14 @@
 ![MasterHead](https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/grandchallengetrajectories_1.gif)
 
 <h1 align="center">Howdy 👋, I'm Sk Muhammad Asif</h1>
-<h3 align="center">Consider myself a geospatial wizard!</h3>
+<h3 align="center">Consider myself a geospatial data wizard!</h3>
 
 
-- 🌱 I’m currently learning **computer vision, digital image processing**
+- 🌱 I’m currently learning **Computer vision, Digital image processing, Geovizualization**
 
 - 👨‍💻 All of my projects are available at [sites.google.com/view/skmuhammadasif](sites.google.com/view/skmuhammadasif)
 
-- 💬 Ask me about **python, machine learning, remote sensing and GIS**
+- 💬 Ask me about **GIS, Remote Sensing, Satellite imagery, Machine learning**
 
 - 📫 How to reach me **sheikhasif.buet13@gmail.com**
 
