@@ -1,4 +1,4 @@
-[![MasterHead](https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/grandchallengetrajectories_1.gif)]
+![MasterHead](https://www.nasa.gov/sites/default/files/styles/ubernode_alt_horiz/public/thumbnails/image/grandchallengetrajectories_1.gif)
 
 <h1 align="center">Howdy 👋, I'm Sk Muhammad Asif</h1>
 <h3 align="center">Consider myself a geospatial wizard!</h3>
