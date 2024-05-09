@@ -4,7 +4,7 @@
 <h3 align="center">Consider myself a geospatial data wizard!</h3>
 
 
-- 🌱 I’m currently learning **WebGIS, DSA, GeoAI **
+- 🌱 I’m currently learning **WebGIS, DSA, GeoAI**
 
 - 👨‍💻 All of my projects are available at [sites.google.com/view/skmuhammadasif](sites.google.com/view/skmuhammadasif)
 
