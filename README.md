@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhasif1996&show_icons=true&locale=en" alt="sheikhasif1996" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhasif1996&" alt="sheikhasif1996" /></p>
+<p><img align="center" src=""https://github-readme-streak-stats.herokuapp.com?user=sheikhasif1996&mode=weekly" alt="GitHub Streak"" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sheikhasif1996&mode=weekly" alt="GitHub Streak" /></a>
 
